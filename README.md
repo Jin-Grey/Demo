@@ -1,4 +1,4 @@
 # Demo
-basics for AI
+Basics for AI
 <br>
 Director-JIN GREY
